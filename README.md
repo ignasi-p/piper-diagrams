@@ -25,7 +25,7 @@ See the [releases section][9].
 ## Get going ##
 The zip-file contains two folders, one for Gnuplot and the other for Veusz. For each program there are input text files to draw the axes and the grids (both files are equal for the two programs). An example data file is also included with several sets of chemical compositions of natural waters (this input text file is also equal for both programs).
 
- [9]: https://github.com/ignasi-p/eq-diagr/releases/latest
+ [9]: https://github.com/ignasi-p/piper-diagrams/releases
 
 - **Gnuplot:**  The script `Piper.gpl` is used to create the Piper diagram by using the command "load". This is a text file. Before using it, you must change the line: `wf = 'C:\Piper\Gnuplot'` (at the beginning of the script) so that it points to your working folder. At the beginning of the script there is section named `#--- Graphic output`; uncomment the two lines indicated to generate a SVG-file (instead of displaying the diagram in a screen window). You may easily change the axes labels, for example add electric charges as in: `set label 41 "Ca^{2+}"...`; or move labels around, etc, but be aware that the SVG output is not exactly equivalent to what you will see on the screen.
 
