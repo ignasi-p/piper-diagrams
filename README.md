@@ -160,3 +160,9 @@ are calculated and placed in the Piper diagram
 when it is being drawn.
 
 [12]: https://staff.aist.go.jp/a.noda/programs/ternary/ternary-en.html
+
+## See also ##
+
+Ignasi's page on [water chemistry][13].
+
+[13]: https://sites.google.com/view/groundwatergeochemistry
